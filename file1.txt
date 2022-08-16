@@ -1,0 +1,1 @@
+this is file frist line of the file'file1.txt'
